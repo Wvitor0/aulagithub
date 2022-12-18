@@ -1,1 +1,1 @@
-Resolvendo push rejeitado por históricos diferentes.
+Resolvendo push rejeitado por históricos diferentes..
